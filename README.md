@@ -11,12 +11,15 @@ This coarse class encompasses 119 classes of non-mammalian vertebrate animals.
 ### Coarse class 3
 This coarse class includes 62 classes of invertebrate animals.
 ### Coarse class 4
-
+This coarse class comprises 98 classes of musical instruments, sports equipment and vessels.
 ### Coarse class 5
+This coarse class comprises 85 classes of transportation vehicles and equipment.
 ### Coarse class 6
+This coarse class comprises 154 classes of household items and gadgets.
 ### Coarse class 7
+This coarse class comprises 82 classes of structures and landscapes.
 ### Coarse class 8
-This coarse class comprises 101 classes of cookware, utensils, and edible items
+This coarse class comprises 101 classes of cookware, utensils, and edible items.
 ### Coarse class 9
 This coarse class comprises 81 classes of apparel and accessories.
 
