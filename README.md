@@ -1,4 +1,4 @@
-# imagenet1k-coarse-classes
+# Imagenet1k Coarse Classes
 This repository organizes the Imagnet1k dataset into 10 coarse classes, where each class consists of semantically similar image categories.
 The following outlines a description for each course class.
 
