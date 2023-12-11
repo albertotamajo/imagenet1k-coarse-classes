@@ -1,6 +1,7 @@
-# Imagenet1k Coarse Classes
-This repository organizes the Imagnet1k dataset into 10 coarse classes, where each class consists of semantically similar image categories.
-The following outlines a description for each course class.
+# ImageNet1k Coarse Classes
+This repository organizes the ImageNet1k dataset into 10 coarse classes, where each class consists of semantically similar image categories.
+The `imagenet_label_wordnet_synset_coarse_class.json` file contains information for all ImageNet1K classes, including their synset ID, label, URI, and coarse class.
+The following outlines a description for each coarse class.
 
 ## Coarse class 0
 ![Class 1 samples](images/class1_samples.png)
